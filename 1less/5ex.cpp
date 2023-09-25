@@ -3,12 +3,13 @@
 using namespace std;
 
 int _get_banknote_count(int num);
+int _get_wallets_count(int banknote_count, int wallet_size);
 
 int main(){
-    int num;
-    cin >> num;
+    int n, m;
+    cin >> n >> m;
 
-    cout << _get_banknote_count(num)<<endl;
+    cout<< _get_wallets_count(_get_banknote_count(n), m) << endl;
     return 0;
 }
 
@@ -41,4 +42,9 @@ int _get_banknote_count(int num){
     }
         
     return res;
+}
+
+int _get_wallets_count(int banknote_count, int wallet_size){
+    return banknote_count > 0? banknote_count/wallet_size + 
+    (((double)banknote_count)/wallet_size != banknote_count/wallet_size ? 1 : 0) : 0;
 }
