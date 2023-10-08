@@ -1,0 +1,22 @@
+Задачи 3го дня.
+
+Задача 1
+    https://acmp.ru/index.asp?main=task&id_task=759
+
+Задача 2
+    https://acmp.ru/index.asp?main=task&id_task=119
+
+Задача 3
+    https://www.interviewbit.com/problems/wave-array/
+
+Задача 4
+    https://www.interviewbit.com/problems/noble-integer/
+
+Задача 5
+    https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+
+Задача 6
+    https://leetcode.com/problems/sorting-the-sentence/description/
+
+Задача 7
+    https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
