@@ -4,3 +4,6 @@
 
 #### АиСД 1.1.  Критерии качества кода, простые числа
 - https://youtu.be/lxf-i5fqPoA
+
+#### Длинная арифметика
+- https://brestprog.by/topics/longarithmetics/
