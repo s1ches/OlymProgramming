@@ -7,3 +7,6 @@
 
 #### Длинная арифметика
 - https://brestprog.by/topics/longarithmetics/
+
+#### Map и Set
+- https://youtu.be/9jSQ8bkXvIM
